@@ -33,6 +33,6 @@ int basic_cal(){
 
 
 int main(){
-	basic_cal();//call calfun
+	basic_cal();//for forking
 
 }
