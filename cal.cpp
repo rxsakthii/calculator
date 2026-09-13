@@ -1,7 +1,5 @@
 #include<stdio.h>
 #include<iostream>
-#include<iomanip>
-#include<string>
 using namespace std;
 int basic_cal(){
 	int num1,num2;
