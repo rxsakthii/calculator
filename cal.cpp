@@ -1,4 +1,4 @@
-#include<stdio.h>//heade files
+#include<stdio.h>//header files
 #include<iostream>
 using namespace std;
 int basic_cal(){
